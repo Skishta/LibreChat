@@ -1,0 +1,1 @@
+Libre Chat: A self-hosted chat interface that combines access to ChatGPT, Claude, Gemini, DeepSeek, and over 20 other models. It supports the Model Context Protocol (MCP) to plug into external tools. By pointing the interface to your own API keys, it replaces paid wrapper subscriptions like ChatGPT Plus ($20/month) while keeping you in full control of your data and history
